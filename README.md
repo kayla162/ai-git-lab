@@ -41,3 +41,6 @@ python analysis.py
 .env 與 .env.example 是設定管理示範，目前程式不需要 API 金鑰，也不會載入它們。
 
 outputs、data/raw 與 models 是本機資料或產出位置，不納入本課專案的版本控制。它們不一定會出現在下載的專案中。
+
+## 及格統計
+
